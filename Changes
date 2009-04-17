@@ -1,6 +1,10 @@
 POE::Component::IRC::Plugin::Bollocks
 =====================================
 
+1.00	Fri Apr 17 21:39:01 BST 2009
+	- Import repo to git
+	- bump to a stable release
+
 0.06	Mon May 12 14:47:28 BST 2008
 	- Removed kwalitee test and added license information.
 
