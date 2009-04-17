@@ -1,0 +1,11 @@
+POE::Component::IRC::Plugin::Bollocks
+=====================================
+
+0.06	Mon May 12 14:47:28 BST 2008
+	- Removed kwalitee test and added license information.
+
+0.04	Tue Apr 15 12:18:56 BST 2008
+	- Kwalitee fixes.
+
+0.02	Tue Feb 26 16:27:20 GMT 2008
+	- Initial CPAN Release
